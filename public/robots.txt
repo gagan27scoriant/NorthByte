@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Priority XML Sitemap
+Sitemap: https://northbyte.in/sitemap.xml
